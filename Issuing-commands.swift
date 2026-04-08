@@ -1,3 +1,4 @@
 moveForward()
 moveForward()
 collectGem()
+collectGem()
